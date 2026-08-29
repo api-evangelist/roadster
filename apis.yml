@@ -30,6 +30,9 @@ description: Roadster was a Palo Alto digital automotive retail commerce platfor
   developer portal, API reference, or public API surface. Surfaced as a portfolio company of
   slow-ventures and profiled in the API Evangelist network; no public API artifacts are discoverable.
 url: https://raw.githubusercontent.com/api-evangelist/roadster/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Surfaced as a portfolio company of slow-ventures and profiled in the API Evangelist network; no public API artifacts are discoverable."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
