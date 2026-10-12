@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/roadster/integrations
+- https://n8n.io/integrations/roadster/
+- https://composio.dev/toolkits/roadster
+- https://monid.ai/tools/roadster
+checked:
+- https://composio.dev/toolkits/roadster
+- https://monid.ai/tools/roadster
+- https://n8n.io/integrations/roadster/
+- https://zapier.com/apps/roadster/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
